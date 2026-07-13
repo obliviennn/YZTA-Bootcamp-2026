@@ -6,7 +6,7 @@
 
 | İsim | Rol | E-Posta / İletişim |
 | :---: | :---: | :---: |
-| **Betül Uçaker** | Scrum Master | [betul.ucaker@example.com] |
+| **Betül Uçaker** | Scrum Master | [betul.ucaker@gmail.com] |
 | **İlyas Berkay Kutlu** | Product Owner | [berkaykutlugs@gmail.com] |
 | **Uğur Can Özen** | Developer (Veri Bilimi Cohort) | [ugurcanozen16@gmail.com] |
 
