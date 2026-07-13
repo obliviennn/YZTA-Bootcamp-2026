@@ -8,7 +8,7 @@
 | :---: | :---: | :---: |
 | **Betül Uçaker** | Scrum Master | [betul.ucaker@example.com] |
 | **İlyas Berkay Kutlu** | Product Owner | [ilyas.berkay.kutlu@example.com] |
-| **Uğur Can Özen** | Developer (Veri Bilimi Cohort) | [ugur.can.ozen@example.com] |
+| **Uğur Can Özen** | Developer (Veri Bilimi Cohort) | [ugurcanozen16@gmail.com] |
 
 ---
 
