@@ -5,7 +5,7 @@ import MoodCharts from './components/MoodCharts';
 import CoachPanel from './components/CoachPanel';
 import './App.css';
 
-const API_BASE_URL = 'http://localhost:8000/api/journal';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000/api/journal';
 
 // Geliştirme/Offline Ortamı için Zengin Mock Veri Seti
 const mockEntries = [
